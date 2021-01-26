@@ -16,7 +16,6 @@ public class PlayerCharacter : MonoBehaviour
         FireIdle,
         FireJump,
         FireRun
-
     }
 
     private State currentState_ = State.None;

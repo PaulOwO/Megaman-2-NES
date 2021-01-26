@@ -56,9 +56,9 @@ MonoBehaviour:
   body: {fileID: 4566454290354266556}
   foot: {fileID: 4566454291760777716}
   bulletPrefab: {fileID: 270648624252306050, guid: 9ad2360e63c74074b912ba34fe389b1e, type: 3}
-  audioSource: {fileID: 0}
-  audioSource1: {fileID: 0}
-  audioSource3: {fileID: 0}
+  audioSource: {fileID: 4566454290354266555}
+  audioSource1: {fileID: 4566454290354266552}
+  audioSource3: {fileID: 4566454290354266553}
 --- !u!61 &4566454290354266559
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -187,8 +187,8 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 39500bfe98d34744d8a071ffed566cc8, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
+  m_PlayOnAwake: 0
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -283,8 +283,8 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6a04185da5cccfe45911d9ec8d3b683c, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
+  m_PlayOnAwake: 0
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -379,8 +379,8 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c4c4cb4ae79fa9f489a69e556a67e7c3, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
+  m_PlayOnAwake: 0
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
