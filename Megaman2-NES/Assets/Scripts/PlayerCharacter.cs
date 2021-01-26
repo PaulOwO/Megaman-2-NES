@@ -25,6 +25,7 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private Rigidbody2D body;
     [SerializeField] private PlayerFoot foot;
     [SerializeField] private Bullet bulletPrefab;
+    [SerializeField] private Transform respawnPoint;
 
     [SerializeField] AudioSource audioSource;
     [SerializeField] AudioSource audioSource1;
@@ -32,10 +33,10 @@ public class PlayerCharacter : MonoBehaviour
    
 
     private const float DeadZone = 0.1f;
-    private const float MoveSpeed = 2.0f;
-    private const float JumpSpeed = 5.0f;
+    private const float MoveSpeed = 3.0f;
+    private const float JumpSpeed = 9.0f;
 
-    //public Vector3 RespawnPos => respawnPoint.position;
+    public Vector3 RespawnPos => respawnPoint.position;
 
     private bool facingRight_ = true;
     private bool jumpButtonDown_ = false;
@@ -116,6 +117,10 @@ public class PlayerCharacter : MonoBehaviour
                     ChangeState(State.Run);
                 }
 
+                if (foot.SpikeContact > 0)
+                {
+                    ChangeState(State.Die);
+                }
                 if (shootButtonDown_)
                 {
                     ChangeState(State.FireIdle);
@@ -137,6 +142,11 @@ public class PlayerCharacter : MonoBehaviour
                     ChangeState(State.FireRun);
                 }
 
+                if (foot.SpikeContact > 0)
+                {
+                    ChangeState(State.Die);
+                }
+
                 if (foot.FootContact == 0)
                 {
                     ChangeState(State.Jump);
@@ -148,6 +158,10 @@ public class PlayerCharacter : MonoBehaviour
                     ChangeState(State.FireJump);
                 }
 
+                if (foot.SpikeContact > 0)
+                {
+                    ChangeState(State.Die);
+                }
                 if (foot.FootContact > 0)
                 {
                     ChangeState(State.Idle);
@@ -195,7 +209,7 @@ public class PlayerCharacter : MonoBehaviour
                 break;
             case State.Die:
                 anim.Play("Death");
-                //transform.position = respawnPoint.transform.position;
+                transform.position = respawnPoint.transform.position;
                 break;
             default:
                 throw new ArgumentOutOfRangeException(nameof(state), state, null);
