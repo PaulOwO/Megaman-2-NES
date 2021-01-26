@@ -1,0 +1,2746 @@
+fileFormatVersion: 2
+guid: 0758d25df8502b14fabb356f322dffbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6569448964697049958
+    second: Mega Man 2 - Mega Man sprites_0
+  - first:
+      213: -1268026523996367309
+    second: Mega Man 2 - Mega Man sprites_1
+  - first:
+      213: 3527964064901126729
+    second: Mega Man 2 - Mega Man sprites_2
+  - first:
+      213: 1119531274723330030
+    second: Mega Man 2 - Mega Man sprites_3
+  - first:
+      213: -659075620050993171
+    second: Mega Man 2 - Mega Man sprites_4
+  - first:
+      213: 8446611516890991979
+    second: Mega Man 2 - Mega Man sprites_5
+  - first:
+      213: -5892728866610185674
+    second: Mega Man 2 - Mega Man sprites_6
+  - first:
+      213: 190007463820797991
+    second: Mega Man 2 - Mega Man sprites_7
+  - first:
+      213: 8379131547359284367
+    second: Mega Man 2 - Mega Man sprites_8
+  - first:
+      213: -1735145286152198204
+    second: Mega Man 2 - Mega Man sprites_9
+  - first:
+      213: 6751024307845253990
+    second: Mega Man 2 - Mega Man sprites_10
+  - first:
+      213: -3272093407701630976
+    second: Mega Man 2 - Mega Man sprites_11
+  - first:
+      213: 2310454733681395053
+    second: Mega Man 2 - Mega Man sprites_12
+  - first:
+      213: -7224275540483773061
+    second: Mega Man 2 - Mega Man sprites_13
+  - first:
+      213: 6474370459153142491
+    second: Mega Man 2 - Mega Man sprites_14
+  - first:
+      213: -3938066442739397013
+    second: Mega Man 2 - Mega Man sprites_15
+  - first:
+      213: -4194613648092802129
+    second: Mega Man 2 - Mega Man sprites_16
+  - first:
+      213: -4081902919567909243
+    second: Mega Man 2 - Mega Man sprites_17
+  - first:
+      213: 6772745455145865180
+    second: Mega Man 2 - Mega Man sprites_18
+  - first:
+      213: 2838858396682404507
+    second: Mega Man 2 - Mega Man sprites_19
+  - first:
+      213: -2205218293864419277
+    second: Mega Man 2 - Mega Man sprites_20
+  - first:
+      213: -3555368961703672353
+    second: Mega Man 2 - Mega Man sprites_21
+  - first:
+      213: -5744242211229818776
+    second: Mega Man 2 - Mega Man sprites_22
+  - first:
+      213: 2979709779079379347
+    second: Mega Man 2 - Mega Man sprites_23
+  - first:
+      213: -19732852786320357
+    second: Mega Man 2 - Mega Man sprites_24
+  - first:
+      213: 1995502463982586299
+    second: Mega Man 2 - Mega Man sprites_25
+  - first:
+      213: 8997245304120335104
+    second: Mega Man 2 - Mega Man sprites_26
+  - first:
+      213: -3530097236940429430
+    second: Mega Man 2 - Mega Man sprites_27
+  - first:
+      213: 7475666455488292077
+    second: Mega Man 2 - Mega Man sprites_28
+  - first:
+      213: 9016970015234891680
+    second: Mega Man 2 - Mega Man sprites_29
+  - first:
+      213: 5960245308371906833
+    second: Mega Man 2 - Mega Man sprites_30
+  - first:
+      213: 5909427728354676147
+    second: Mega Man 2 - Mega Man sprites_31
+  - first:
+      213: 8444025053888658945
+    second: Mega Man 2 - Mega Man sprites_32
+  - first:
+      213: -4405315921189976789
+    second: Mega Man 2 - Mega Man sprites_33
+  - first:
+      213: 2069288085783665335
+    second: Mega Man 2 - Mega Man sprites_34
+  - first:
+      213: -5542021559893057530
+    second: Mega Man 2 - Mega Man sprites_35
+  - first:
+      213: -900903878337811766
+    second: Mega Man 2 - Mega Man sprites_36
+  - first:
+      213: 6984367830147881269
+    second: Mega Man 2 - Mega Man sprites_37
+  - first:
+      213: -8767520616331581024
+    second: Mega Man 2 - Mega Man sprites_38
+  - first:
+      213: -6600183322382924963
+    second: Mega Man 2 - Mega Man sprites_39
+  - first:
+      213: -5343135395085364192
+    second: Mega Man 2 - Mega Man sprites_40
+  - first:
+      213: 7810984321209663880
+    second: Mega Man 2 - Mega Man sprites_41
+  - first:
+      213: -6032030920398394419
+    second: Mega Man 2 - Mega Man sprites_42
+  - first:
+      213: -3851045223774992126
+    second: Mega Man 2 - Mega Man sprites_43
+  - first:
+      213: -7128756333033367574
+    second: Mega Man 2 - Mega Man sprites_44
+  - first:
+      213: 8134891194368356394
+    second: Mega Man 2 - Mega Man sprites_45
+  - first:
+      213: 347693421062182092
+    second: Mega Man 2 - Mega Man sprites_46
+  - first:
+      213: -9128524869240990827
+    second: Mega Man 2 - Mega Man sprites_47
+  - first:
+      213: -406291929117400794
+    second: Mega Man 2 - Mega Man sprites_48
+  - first:
+      213: -4962138804859074842
+    second: Mega Man 2 - Mega Man sprites_49
+  - first:
+      213: 5465330390205442865
+    second: Mega Man 2 - Mega Man sprites_50
+  - first:
+      213: 5773465759651399497
+    second: Mega Man 2 - Mega Man sprites_51
+  - first:
+      213: 1963867729082545878
+    second: Mega Man 2 - Mega Man sprites_52
+  - first:
+      213: 2603834365800113860
+    second: Mega Man 2 - Mega Man sprites_53
+  - first:
+      213: -7245572773082381302
+    second: Mega Man 2 - Mega Man sprites_54
+  - first:
+      213: 6719240493509507695
+    second: Mega Man 2 - Mega Man sprites_55
+  - first:
+      213: 4589281039711136208
+    second: Mega Man 2 - Mega Man sprites_56
+  - first:
+      213: -4701292554790953746
+    second: Mega Man 2 - Mega Man sprites_57
+  - first:
+      213: -6884048248089946269
+    second: Mega Man 2 - Mega Man sprites_58
+  - first:
+      213: -5167276549759226125
+    second: Mega Man 2 - Mega Man sprites_59
+  - first:
+      213: 5670985774911457383
+    second: Mega Man 2 - Mega Man sprites_60
+  - first:
+      213: -7321764019833577390
+    second: Mega Man 2 - Mega Man sprites_61
+  - first:
+      213: -9133972512360216852
+    second: Mega Man 2 - Mega Man sprites_62
+  - first:
+      213: -8469627708411091323
+    second: Mega Man 2 - Mega Man sprites_63
+  - first:
+      213: -423567127163555005
+    second: Mega Man 2 - Mega Man sprites_64
+  - first:
+      213: -7308462367085185504
+    second: Mega Man 2 - Mega Man sprites_65
+  - first:
+      213: 3065900598319813122
+    second: Mega Man 2 - Mega Man sprites_66
+  - first:
+      213: 4255840930254224917
+    second: Mega Man 2 - Mega Man sprites_67
+  - first:
+      213: -2917464980576588898
+    second: Mega Man 2 - Mega Man sprites_68
+  - first:
+      213: 7203910246986354564
+    second: Mega Man 2 - Mega Man sprites_69
+  - first:
+      213: 1563963023730382271
+    second: Mega Man 2 - Mega Man sprites_70
+  - first:
+      213: -3719617566606639533
+    second: Mega Man 2 - Mega Man sprites_71
+  - first:
+      213: -5293990314482882628
+    second: Mega Man 2 - Mega Man sprites_72
+  - first:
+      213: -4529640634957280156
+    second: Mega Man 2 - Mega Man sprites_73
+  - first:
+      213: -6409823562469093880
+    second: Mega Man 2 - Mega Man sprites_74
+  - first:
+      213: -8262316029243518816
+    second: Mega Man 2 - Mega Man sprites_75
+  - first:
+      213: 7851877576776324734
+    second: Mega Man 2 - Mega Man sprites_76
+  - first:
+      213: -8728753563072847346
+    second: Mega Man 2 - Mega Man sprites_77
+  - first:
+      213: 7901087232294050234
+    second: Mega Man 2 - Mega Man sprites_78
+  - first:
+      213: 6847071472052231684
+    second: Mega Man 2 - Mega Man sprites_79
+  - first:
+      213: 8374357970622209710
+    second: Mega Man 2 - Mega Man sprites_80
+  - first:
+      213: -1178939290962316490
+    second: Mega Man 2 - Mega Man sprites_81
+  - first:
+      213: -4598966448718220159
+    second: Mega Man 2 - Mega Man sprites_82
+  - first:
+      213: -1142986290482659471
+    second: Mega Man 2 - Mega Man sprites_83
+  - first:
+      213: 1996369648327271180
+    second: Mega Man 2 - Mega Man sprites_84
+  - first:
+      213: 5578833704691310261
+    second: Mega Man 2 - Mega Man sprites_85
+  - first:
+      213: -7122115693879659078
+    second: Mega Man 2 - Mega Man sprites_86
+  - first:
+      213: 5121849041508325444
+    second: Mega Man 2 - Mega Man sprites_87
+  - first:
+      213: -2618544237579370085
+    second: Mega Man 2 - Mega Man sprites_88
+  - first:
+      213: -151207708437914410
+    second: Mega Man 2 - Mega Man sprites_89
+  - first:
+      213: 7009888739073129266
+    second: Mega Man 2 - Mega Man sprites_90
+  - first:
+      213: -779857194025353949
+    second: Mega Man 2 - Mega Man sprites_91
+  - first:
+      213: 6048111792285493633
+    second: Mega Man 2 - Mega Man sprites_92
+  - first:
+      213: -7622978173745957691
+    second: Mega Man 2 - Mega Man sprites_93
+  - first:
+      213: -8355308339329788921
+    second: Mega Man 2 - Mega Man sprites_94
+  - first:
+      213: -8092150382046795671
+    second: Mega Man 2 - Mega Man sprites_95
+  - first:
+      213: -2962024821789347960
+    second: Mega Man 2 - Mega Man sprites_96
+  - first:
+      213: 4786742688263148995
+    second: Mega Man 2 - Mega Man sprites_97
+  - first:
+      213: 5912507601093198911
+    second: Mega Man 2 - Mega Man sprites_98
+  - first:
+      213: -2478218180907490580
+    second: Mega Man 2 - Mega Man sprites_99
+  - first:
+      213: -3547500576200987014
+    second: Mega Man 2 - Mega Man sprites_100
+  - first:
+      213: 4898170502250758988
+    second: Mega Man 2 - Mega Man sprites_101
+  - first:
+      213: 2687157809460968348
+    second: Mega Man 2 - Mega Man sprites_102
+  - first:
+      213: -4540490667597773931
+    second: Mega Man 2 - Mega Man sprites_103
+  - first:
+      213: 5925664660702916121
+    second: Mega Man 2 - Mega Man sprites_104
+  - first:
+      213: 7847664924388217457
+    second: Mega Man 2 - Mega Man sprites_105
+  - first:
+      213: -2321432903424857171
+    second: Mega Man 2 - Mega Man sprites_106
+  - first:
+      213: 6469879168499444246
+    second: Mega Man 2 - Mega Man sprites_107
+  - first:
+      213: -8002874270876924756
+    second: Mega Man 2 - Mega Man sprites_108
+  - first:
+      213: 3229891977857907221
+    second: Mega Man 2 - Mega Man sprites_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 379
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b43d6e60f5b2b50800000000000000
+      internalID: 6569448964697049958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 377
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365c6f3890176ee0800000000000000
+      internalID: -1268026523996367309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 377
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a56c400a8d5f030800000000000000
+      internalID: 3527964064901126729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 381
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee703d843cf598f00800000000000000
+      internalID: 1119531274723330030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 400
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7dba273e7ad6f0800000000000000
+      internalID: -659075620050993171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 395
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc20c2c64683570800000000000000
+      internalID: 8446611516890991979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a720c1152d83ea0800000000000000
+      internalID: -5892728866610185674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 396
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72826b918ca03a200800000000000000
+      internalID: 190007463820797991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 392
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8e9e6fb7a84470800000000000000
+      internalID: 8379131547359284367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c764313e868be7e0800000000000000
+      internalID: -1735145286152198204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 382
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc42be6d470bd50800000000000000
+      internalID: 6751024307845253990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 382
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000c0ac1603792d0800000000000000
+      internalID: -3272093407701630976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 379
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6503b6c652601020800000000000000
+      internalID: 2310454733681395053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 379
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7debe9fba73ebb90800000000000000
+      internalID: -7224275540483773061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 382
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21b1241a599d950800000000000000
+      internalID: 6474370459153142491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec1a26f6d2959c0800000000000000
+      internalID: -3938066442739397013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 345
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35c6f6c1db9c5c0800000000000000
+      internalID: -4194613648092802129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 345
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e5687ebea2a57c0800000000000000
+      internalID: -4081902919567909243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 345
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf4c10ab10adfd50800000000000000
+      internalID: 6772745455145865180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 345
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c3edbba6a56720800000000000000
+      internalID: 2838858396682404507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 345
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b40e35ad7561e0800000000000000
+      internalID: -2205218293864419277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5043834cac8aec0800000000000000
+      internalID: -3555368961703672353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 341
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a7d7a42a5840b0800000000000000
+      internalID: -5744242211229818776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 341
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b8c3c14e0a5920800000000000000
+      internalID: 2979709779079379347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 345
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c244f2315e9bff0800000000000000
+      internalID: -19732852786320357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 306
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9491a1be271bb10800000000000000
+      internalID: 1995502463982586299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bd4254fe2acdc70800000000000000
+      internalID: 8997245304120335104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 307
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e3992443920fc0800000000000000
+      internalID: -3530097236940429430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 307
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4eea29807eeb760800000000000000
+      internalID: 7475666455488292077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 306
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9c647476b22d70800000000000000
+      internalID: 9016970015234891680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11132bb778b07b250800000000000000
+      internalID: 5960245308371906833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8c6e9531820250800000000000000
+      internalID: 5909427728354676147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e38835c043f2570800000000000000
+      internalID: 8444025053888658945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 276
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254912928c2dd2c0800000000000000
+      internalID: -4405315921189976789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba551bec8697bc10800000000000000
+      internalID: 2069288085783665335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a40111c8c613b0800000000000000
+      internalID: -5542021559893057530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 272
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca27e222b85f73f0800000000000000
+      internalID: -900903878337811766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 270
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53951a869857de060800000000000000
+      internalID: 6984367830147881269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a964a6a372835680800000000000000
+      internalID: -8767520616331581024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 244
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5388e0dc307764a0800000000000000
+      internalID: -6600183322382924963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024de15daae59d5b0800000000000000
+      internalID: -5343135395085364192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 244
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88109d31bd0366c60800000000000000
+      internalID: 7810984321209663880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 244
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb2b7346dbe94ca0800000000000000
+      internalID: -6032030920398394419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094deec5c65e8ac0800000000000000
+      internalID: -3851045223774992126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 237
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7da3782e1911d90800000000000000
+      internalID: -7128756333033367574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2077c6d070f4e070800000000000000
+      internalID: 8134891194368356394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d625035143d400800000000000000
+      internalID: 347693421062182092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 206
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59352951ff6f05180800000000000000
+      internalID: -9128524869240990827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62169d1a4af8c5af0800000000000000
+      internalID: -406291929117400794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6813a2c01f22bb0800000000000000
+      internalID: -4962138804859074842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 206
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba7588801c8db40800000000000000
+      internalID: 5465330390205442865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 172
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94707eee4887f1050800000000000000
+      internalID: 5773465759651399497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_52
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 171
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d671d96b4f014b10800000000000000
+      internalID: 1963867729082545878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 171
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6687b5f8da22420800000000000000
+      internalID: 2603834365800113860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ce2a93fd827b90800000000000000
+      internalID: -7245572773082381302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 171
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6afd08f0a98f3d50800000000000000
+      internalID: 6719240493509507695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 171
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ea626ac660bf30800000000000000
+      internalID: 4589281039711136208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 174
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1f767457a1ceb0800000000000000
+      internalID: -4701292554790953746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 174
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d2f37792f670a0800000000000000
+      internalID: -6884048248089946269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 156
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe256bfa552a48b0800000000000000
+      internalID: -5167276549759226125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76804ef148363be40800000000000000
+      internalID: 5670985774911457383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25065949a6ed36a90800000000000000
+      internalID: -7321764019833577390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce64694d46c9d3180800000000000000
+      internalID: -9133972512360216852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 157
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586e9542976d57a80800000000000000
+      internalID: -8469627708411091323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34332e621ff2f1af0800000000000000
+      internalID: -423567127163555005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 117
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b393f230239a90800000000000000
+      internalID: -7308462367085185504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202928fa9544c8a20800000000000000
+      internalID: 3065900598319813122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 117
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51efe5417c8cf0b30800000000000000
+      internalID: 4255840930254224917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b271cbe051387d0800000000000000
+      internalID: -2917464980576588898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 117
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f0b61a33e69f360800000000000000
+      internalID: 7203910246986354564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 117
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59b47751054b510800000000000000
+      internalID: 1563963023730382271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 117
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ebb12d783416cc0800000000000000
+      internalID: -3719617566606639533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a3e49bd7f786b0800000000000000
+      internalID: -5293990314482882628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c423177db7321c0800000000000000
+      internalID: -4529640634957280156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec91e3e6bbb07a0800000000000000
+      internalID: -6409823562469093880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09ce6d85b565d80800000000000000
+      internalID: -8262316029243518816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769b971e0977fc60800000000000000
+      internalID: 7851877576776324734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 86
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022e1d91ec3dd680800000000000000
+      internalID: -8728753563072847346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9d24cd9fc46ad60800000000000000
+      internalID: 7901087232294050234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e526bf93fa50f50800000000000000
+      internalID: 6847071472052231684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 78
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaed5ec7432b73470800000000000000
+      internalID: 8374357970622209710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b07e06f093afe0800000000000000
+      internalID: -1178939290962316490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f53a91603d20c0800000000000000
+      internalID: -4598966448718220159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb3ac460c4320f0800000000000000
+      internalID: -1142986290482659471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032be03e9784bb10800000000000000
+      internalID: 1996369648327271180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1a1d42bffb6d40800000000000000
+      internalID: 5578833704691310261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57111d289292d90800000000000000
+      internalID: -7122115693879659078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44857480196741740800000000000000
+      internalID: 5121849041508325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b918f6ab3ef09abd0800000000000000
+      internalID: -2618544237579370085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcd14be36dc6edf0800000000000000
+      internalID: -151207708437914410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf67f0ba0284160800000000000000
+      internalID: 7009888739073129266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df59e83046d25f0800000000000000
+      internalID: -779857194025353949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_92
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 52
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189270d71a53fe350800000000000000
+      internalID: 6048111792285493633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f05f3dbdb53690800000000000000
+      internalID: -7622978173745957691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_94
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704936d655bfb0c80800000000000000
+      internalID: -8355308339329788921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682f010a18e2bf80800000000000000
+      internalID: -8092150382046795671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2b593e16c4e6d0800000000000000
+      internalID: -2962024821789347960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 31
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c59f1d1d1ded6240800000000000000
+      internalID: 4786742688263148995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3405fe56527d0250800000000000000
+      internalID: 5912507601093198911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22813d1b99b9dd0800000000000000
+      internalID: -2478218180907490580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eeb0b750fb4cec0800000000000000
+      internalID: -3547500576200987014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4304f3ce1cc9f340800000000000000
+      internalID: 4898170502250758988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b76506ac3ba4520800000000000000
+      internalID: 2687157809460968348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593cbdb5bcfecf0c0800000000000000
+      internalID: -4540490667597773931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_104
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e68470d903c3250800000000000000
+      internalID: 5925664660702916121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d3768ba188ec60800000000000000
+      internalID: 7847664924388217457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2575e21d98cfd0800000000000000
+      internalID: -2321432903424857171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aeb1a23d0a9c950800000000000000
+      internalID: 6469879168499444246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_108
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4844e604410f090800000000000000
+      internalID: -8002874270876924756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Man 2 - Mega Man sprites_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aba1324a1e2dc20800000000000000
+      internalID: 3229891977857907221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
