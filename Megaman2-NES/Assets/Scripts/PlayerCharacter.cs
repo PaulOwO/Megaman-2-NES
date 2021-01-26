@@ -36,6 +36,8 @@ public class PlayerCharacter : MonoBehaviour
     private const float MoveSpeed = 2.0f;
     private const float JumpSpeed = 5.0f;
 
+    //public Vector3 RespawnPos => respawnPoint.position;
+
     private bool facingRight_ = true;
     private bool jumpButtonDown_ = false;
     private bool shootButtonDown_ = false;
@@ -88,7 +90,7 @@ public class PlayerCharacter : MonoBehaviour
             moveDir_ = Quaternion.AngleAxis(angle_, Vector3.forward) * Vector3.up;
             var bullet = Instantiate(bulletPrefab, transform_.position, Quaternion.identity);
             bullet.Direction = moveDir_;
-            
+            audioSource.Play();
         }
         shootButtonDown_ = false;
 
@@ -150,7 +152,13 @@ public class PlayerCharacter : MonoBehaviour
                 if (foot.FootContact > 0)
                 {
                     ChangeState(State.Idle);
-                    //audioSource.Play;
+                    audioSource1.Play();
+                }
+                break;
+            case State.Die:
+                if (foot.SpikeContact == 0)
+                {
+                    ChangeState(State.Idle);
                 }
                 break;
             default:
@@ -185,6 +193,10 @@ public class PlayerCharacter : MonoBehaviour
                 break;
             case State.FireIdle:
                 anim.Play("FireIdle");
+                break;
+            case State.Die:
+                anim.Play("Death");
+                //transform.position = respawnPoint.transform.position;
                 break;
             default:
                 throw new ArgumentOutOfRangeException(nameof(state), state, null);

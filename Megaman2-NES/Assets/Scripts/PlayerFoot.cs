@@ -6,22 +6,32 @@ using UnityEngine;
 public class PlayerFoot : MonoBehaviour
 {
         private int footContact_ = 0;
+        private int spikeContact_ = 0;
 
-        public int FootContact => footContact_;
+    public int FootContact => footContact_;
+    public int SpikeContact => spikeContact_;
 
-        private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.layer == LayerMask.NameToLayer("Platform"))
         {
-            if (other.gameObject.layer == LayerMask.NameToLayer("Platform"))
-            {
                 footContact_++;
-            }
         }
-
-        private void OnTriggerExit2D(Collider2D other)
+        else if (other.gameObject.layer == LayerMask.NameToLayer("Spike"))
         {
-            if (other.gameObject.layer == LayerMask.NameToLayer("Platform"))
-            {
-                footContact_--;
-            }
+            spikeContact_++;
         }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.layer == LayerMask.NameToLayer("Platform"))
+        {
+                footContact_--;
+        }
+        else if (other.gameObject.layer == LayerMask.NameToLayer("Spike"))
+        {
+            spikeContact_--;
+        }
+    }
 }
