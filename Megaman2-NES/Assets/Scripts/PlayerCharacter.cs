@@ -10,10 +10,13 @@ public class PlayerCharacter : MonoBehaviour
     {
         None,
         Idle,
-        Walk,
+        Run,
         Jump,
-        Hit,
-        Die
+        Die,
+        FireIdle,
+        FireJump,
+        FireRun
+
     }
 
     private State currentState_ = State.None;
@@ -23,6 +26,11 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private Rigidbody2D body;
     [SerializeField] private PlayerFoot foot;
     [SerializeField] private Bullet bulletPrefab;
+
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioSource audioSource1;
+    [SerializeField] AudioSource audioSource3;
+   
 
     private const float DeadZone = 0.1f;
     private const float MoveSpeed = 2.0f;
@@ -104,7 +112,12 @@ public class PlayerCharacter : MonoBehaviour
             case State.Idle:
                 if (Mathf.Abs(moveDir) > DeadZone)
                 {
-                    ChangeState(State.Walk);
+                    ChangeState(State.Run);
+                }
+
+                if (shootButtonDown_)
+                {
+                    ChangeState(State.FireIdle);
                 }
 
                 if (foot.FootContact == 0)
@@ -112,10 +125,15 @@ public class PlayerCharacter : MonoBehaviour
                     ChangeState(State.Jump);
                 }
                 break;
-            case State.Walk:
+            case State.Run:
                 if (Mathf.Abs(moveDir) < DeadZone)
                 {
                     ChangeState(State.Idle);
+                }
+
+                if (shootButtonDown_)
+                {
+                    ChangeState(State.FireRun);
                 }
 
                 if (foot.FootContact == 0)
@@ -124,9 +142,15 @@ public class PlayerCharacter : MonoBehaviour
                 }
                 break;
             case State.Jump:
+                if (shootButtonDown_)
+                {
+                    ChangeState(State.FireJump);
+                }
+
                 if (foot.FootContact > 0)
                 {
                     ChangeState(State.Idle);
+                    //audioSource.Play;
                 }
                 break;
             default:
@@ -147,11 +171,20 @@ public class PlayerCharacter : MonoBehaviour
             case State.Idle:
                 anim.Play("Idle");
                 break;
-            case State.Walk:
-                anim.Play("Walk");
+            case State.Run:
+                anim.Play("Run");
                 break;
             case State.Jump:
                 anim.Play("Jump");
+                break;
+            case State.FireRun:
+                anim.Play("FireRun");
+                break;
+            case State.FireJump:
+                anim.Play("FireJump");
+                break;
+            case State.FireIdle:
+                anim.Play("FireIdle");
                 break;
             default:
                 throw new ArgumentOutOfRangeException(nameof(state), state, null);

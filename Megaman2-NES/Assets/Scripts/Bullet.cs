@@ -14,7 +14,7 @@ public class Bullet : MonoBehaviour
 
     [SerializeField] private Rigidbody2D body_;
     private const float period = 1.0f;
-    private const float bulletSpeed = 5.0f;
+    private const float bulletSpeed = 10.0f;
     private float timer_ = period;
 
     // Start is called before the first frame update
